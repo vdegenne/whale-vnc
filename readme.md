@@ -1,7 +1,8 @@
 # whale-vnc
 
 This is a docker image of a debian stretch slim running Whale Browser in a VNC server that you can use to use Whale Browser in a system that doesn't handle .deb packages such as Fedora.
-! THIS DOCKER IMAGE IS EXPERIMENTAL, USE AT YOUR OWN RISK !
+
+<b style="color:red">! THIS DOCKER IMAGE IS EXPERIMENTAL, USE AT YOUR OWN RISK !</b>
 
 ## Installation
 
